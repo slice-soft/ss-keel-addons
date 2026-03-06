@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "addons": [
+    {
+      "alias": "gorm",
+      "repo": "github.com/slice-soft/ss-keel-gorm",
+      "description": "SQL via GORM — Postgres, MySQL, SQLite, SQL Server",
+      "source": "slice-soft",
+      "tags": ["sql", "gorm", "postgres", "mysql", "sqlite", "sqlserver"]
+    }
+  ]
+}
