@@ -7,6 +7,13 @@
       "description": "SQL via GORM — Postgres, MySQL, SQLite, SQL Server",
       "source": "slice-soft",
       "tags": ["sql", "gorm", "postgres", "mysql", "sqlite", "sqlserver"]
+    },
+    {
+      "alias": "mongo",
+      "repo": "github.com/slice-soft/ss-keel-mongo",
+      "description": "MongoDB via official mongo-driver for document-first workflows",
+      "source": "slice-soft",
+      "tags": ["mongodb", "mongo", "nosql", "document", "bson"]
     }
   ]
 }
