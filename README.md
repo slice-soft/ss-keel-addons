@@ -7,6 +7,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/slice-soft/ss-keel-addons)](https://github.com/slice-soft/ss-keel-addons/graphs/contributors)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Made in Colombia](https://img.shields.io/badge/Made%20in-Colombia-FCD116?labelColor=003893)
+[![Sponsor](https://img.shields.io/badge/Sponsor-SS--Keel-003893?logo=github-sponsors&logoColor=green)](https://github.com/sponsors/slice-soft)
 
 `ss-keel-addons` is the public alias registry used by the Keel CLI.
 
