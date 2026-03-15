@@ -16,6 +16,13 @@
       "tags": ["mongodb", "mongo", "nosql", "document", "bson"]
     },
     {
+      "alias": "jwt",
+      "repo": "github.com/slice-soft/ss-keel-jwt",
+      "description": "JWT authentication guard for Keel — token generation, validation, and route protection",
+      "source": "slice-soft",
+      "tags": ["auth", "jwt", "authentication", "guard", "token", "bearer"]
+    },
+    {
       "alias": "oauth",
       "repo": "github.com/slice-soft/ss-keel-oauth",
       "description": "OAuth2 authentication — Google, GitHub, GitLab",
