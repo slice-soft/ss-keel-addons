@@ -28,6 +28,13 @@
       "description": "OAuth2 authentication — Google, GitHub, GitLab",
       "source": "slice-soft",
       "tags": ["auth", "oauth2", "google", "github", "gitlab", "jwt"]
+    },
+    {
+      "alias": "redis",
+      "repo": "github.com/slice-soft/ss-keel-redis",
+      "description": "Redis cache via go-redis — implements contracts.Cache with health check support",
+      "source": "slice-soft",
+      "tags": ["cache", "redis", "go-redis", "session", "key-value"]
     }
   ]
 }
