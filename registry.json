@@ -35,6 +35,13 @@
       "description": "Redis cache via go-redis — implements contracts.Cache with health check support",
       "source": "slice-soft",
       "tags": ["cache", "redis", "go-redis", "session", "key-value"]
+    },
+    {
+      "alias": "devpanel",
+      "repo": "github.com/slice-soft/ss-keel-devpanel",
+      "description": "Real-time observability UI for Keel applications — requests, logs, addon events and config",
+      "source": "slice-soft",
+      "tags": ["observability", "devtools", "panel", "debug", "logs", "requests"]
     }
   ]
 }
