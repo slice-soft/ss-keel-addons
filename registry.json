@@ -42,6 +42,13 @@
       "description": "Real-time observability UI for Keel applications — requests, logs, addon events and config",
       "source": "slice-soft",
       "tags": ["observability", "devtools", "panel", "debug", "logs", "requests"]
+    },
+    {
+      "alias": "otel",
+      "repo": "github.com/slice-soft/ss-keel-otel",
+      "description": "OpenTelemetry instrumentation — traces, metrics, and automatic Fiber HTTP spans via OTLP",
+      "source": "slice-soft",
+      "tags": ["observability", "opentelemetry", "otel", "tracing", "metrics", "otlp", "grafana", "jaeger", "datadog"]
     }
   ]
 }
